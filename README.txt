@@ -3,6 +3,8 @@ python实现的命令工具集，可以安装到系统目录，像使用系统�
 初始化版本仅搭建了项目框架，实现了一个演示用的log命令。
 
 2、安装pycli
+pip及python click安装参考：
+http://blog.csdn.net/m_changgong/article/details/51794189
 
 方法一：
 第一次安装pycli
